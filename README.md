@@ -21,7 +21,7 @@ It leverages **Stable Baselines3 (SB3)** with a **custom Gym environment** (`Sup
   - Optuna based  Hyperparameter Tuning 
   - Evaluation & backtesting  
   - Portfolio performance visualization  
-- Added the ('RL_Model.py') file for easy implementation
+- Added the **(`RL_Model.py`)** file for easy implementation
 ---
 
 ## ⚙️ Installation
